@@ -1,2 +1,23 @@
-# movie-recommender-system-using-sentiment-analysis
-Machine learning based sentiment analysis system that analyzes user movie reviews using NLP and predicts sentiment (positive/negative) to support movie recommendations. Built with Python and Scikit-learn.
+# Movie Recommendation System using Sentiment Analysis
+
+This project implements a machine learning based sentiment analysis system that predicts whether a movie review is positive or negative.
+
+The system analyzes user reviews and classifies them using Natural Language Processing techniques.
+
+Technologies Used:
+- Python
+- Machine Learning
+- Naive Bayes Algorithm
+- TF-IDF Vectorization
+
+Dataset:
+Amazon/Movie review dataset inspired sample data.
+
+Features:
+- Predicts sentiment of user reviews
+- Text preprocessing
+- Machine learning classification
+
+Future Scope:
+- Integrate with real movie API
+- Recommend movies automatically
